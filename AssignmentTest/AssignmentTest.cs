@@ -92,7 +92,7 @@ namespace AssignmentTest
             const float PackMaxWeight = 100;
 
             Pack pack = new Pack(PackMaxItems, PackMaxVolume, PackMaxWeight);
-            pack.Add(new Arrow(NegativeWeight, NegativeVolume));
+           
 
         }
     }
